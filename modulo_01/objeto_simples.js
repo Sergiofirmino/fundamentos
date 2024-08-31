@@ -1,6 +1,6 @@
 let car = {
-    make: "Toyota",
-    model: "Corolla",
-    year: 2024
+    make: "Toyota", //propriedade
+    model: "Corolla", //propriedade
+    year: 2024    //propriedade
 };
-console.log(car.model); // Output: Corolla
+console.log(car.model); 
