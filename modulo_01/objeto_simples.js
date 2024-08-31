@@ -3,4 +3,4 @@ let car = {
     model: "Corolla", //propriedade
     year: 2024    //propriedade
 };
-console.log(car.model); 
+console.log(car.model); // Output: Corolla
